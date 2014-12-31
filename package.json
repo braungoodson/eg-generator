@@ -1,0 +1,29 @@
+{
+  "name": "eg-generator",
+  "version": "0.2.0",
+  "description": "nodejs examples for express, https, socket.io, bower, angular, twitter, and jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/braungoodson/eg-generator"
+  },
+  "keywords": [
+    "generator",
+    "express",
+    "https",
+    "socket.io",
+    "bower",
+    "angular",
+    "twitter",
+    "jquery"
+  ],
+  "author": "braun goodson <braungoodson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braungoodson/eg-generator/issues"
+  },
+  "homepage": "https://github.com/braungoodson/eg-generator"
+}
